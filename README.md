@@ -1,6 +1,6 @@
 # Ethereum-Cobra
 
-Ethereum-Cobra 
+Ethereum-Cobra is a command line wallet for interacting with the Ethereum network. It includes functionality for signing transactions, viewing balances, Ethereum Name Service support, ERC-20 transfers, Uniswap swaps, block exploring and more. I'm using Helios to interact with the network so a startup RPC URL is required.
 
 ## Installation
 

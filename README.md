@@ -69,7 +69,7 @@ If you were to have selected 5 here you would be brought to the token interface 
 
 **Place Token Order** lets you place an order for an ERC-20 token on Uniswap either with Ether or another ERC-20 token, there's different functionality for both scenarios as swaps that are paid for in ERC-20 need approval transaction to be broadcast first. You also need to select some different parameters like maximum slips and fee pools. I recommend checking swap data on the Uniswap website before attempting a swap. Also make sure that you're checking the Uniswap V3 router as I've hard coded support for only the V3 router currently.
 
-**Withdraw Wrapped Ether** is for when you've executed an ERC-20 to Ether swap and you need to unwrap the received Ether as Uniswap uses Wrapped Ether rather than native Ether for swaps where you've receiving Ether.
+**Withdraw Wrapped Ether** is for when you've executed an ERC-20 to Ether swap and you need to unwrap the received Ether as Uniswap uses Wrapped Ether rather than native Ether for swaps where you're receiving Ether.
 
 **Add Token Account** is for manually linking one of your Ethereum accounts to an ERC-20 token contract to check for balances in the token that are listed when you select **My Accounts** in the main interface.
 
